@@ -32,7 +32,7 @@ class BankAccount:
 
 # Create an instance of the BankAccount class
 account = BankAccount(account_number="123456789",
-                      account_holder_name="Meeran",
+                      account_holder_name="Akilan",
                       initial_balance=10000.0)
 
 # Test deposit and withdrawal functionality
